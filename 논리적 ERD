@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T15:19:24.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xa3FFMnsuahY1EHNzdEM" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T15:21:30.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="S2EEY_nUldFXkzHuo6kI" version="24.4.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="레츠">
     <mxGraphModel dx="1969" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1700,6 +1700,20 @@
             <mxPoint x="651" y="673" as="sourcePoint" />
             <mxPoint x="434" y="976" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <UserObject label="https://www.erdcloud.com/d/NHj9qj943yA2toagv" link="https://www.erdcloud.com/d/NHj9qj943yA2toagv" id="fJbgrTXxXNnUXD2PECdj-361">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="121.00352941176487" y="1542.0047058823532" width="284" height="36" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fJbgrTXxXNnUXD2PECdj-362" value="호스트" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="756" y="509" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJbgrTXxXNnUXD2PECdj-368" value="호스팅하기" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1219.13" y="814" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJbgrTXxXNnUXD2PECdj-369" value="신청하기" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="782.0000000000001" y="1118" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
