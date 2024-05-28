@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T05:21:07.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I2hu_7lLo8XyoT4S-7jK" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T10:41:33.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FS3MSMETJ5RJt92F2hxD" version="24.4.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="레츠">
     <mxGraphModel dx="1674" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -297,12 +297,12 @@
             <mxRectangle width="87.5862068965518" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJbgrTXxXNnUXD2PECdj-111" value="NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="jIFIR8CMAl3CufjkIRGz-38" vertex="1">
+        <mxCell id="fJbgrTXxXNnUXD2PECdj-111" value="NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="jIFIR8CMAl3CufjkIRGz-38" vertex="1">
           <mxGeometry x="324.44827586206907" width="87.58620689655174" height="30" as="geometry">
             <mxRectangle width="87.58620689655174" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJbgrTXxXNnUXD2PECdj-127" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="jIFIR8CMAl3CufjkIRGz-38" vertex="1">
+        <mxCell id="fJbgrTXxXNnUXD2PECdj-127" value="NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="jIFIR8CMAl3CufjkIRGz-38" vertex="1">
           <mxGeometry x="412.0344827586208" width="93.4655172413793" height="30" as="geometry">
             <mxRectangle width="93.4655172413793" height="30" as="alternateBounds" />
           </mxGeometry>
